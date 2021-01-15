@@ -1,10 +1,10 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              UC Stop the Slaughter
+bio:                'Stop killing animals please.'
+description:        "Pretty please? Someone write this more nicely."
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "ucsts" # the subpath of your site, e.g. /blog
+url: "varun-iyer.github.io" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
