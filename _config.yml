@@ -5,7 +5,7 @@ description:        "Pretty please? Someone write this more nicely."
 locale:             en_US
 baseurl: "ucsts" # the subpath of your site, e.g. /blog
 url: "varun-iyer.github.io" # the base hostname & protocol for your site
-
+remote-theme: jekyllup/massive
 # Comments
 disqus_shortname:   default
 
