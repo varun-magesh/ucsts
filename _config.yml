@@ -3,7 +3,7 @@ title:              UC Stop the Slaughter
 bio:                'Stop killing animals please.'
 description:        "Pretty please? Someone write this more nicely."
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/ucsts" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
   # remote_theme: jekyllup/massive
 # Comments
