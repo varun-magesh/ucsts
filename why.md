@@ -1,27 +1,20 @@
----
+﻿---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
-sitemap:
-    priority: 0.7
-    lastmod: 2017-11-02
-    changefreq: weekly
+title: Why Stop the Slaughter?
 ---
-## About our Site
+Non-humans are exploited from the day they are born and until their last moments on earth. Exploited in every way possible. Treated like machines. This is a nightmare they can’t wake up from. Most don’t ever get to feel the sunlight against their skin or the comfort of their mothers. The only way to combat this cruel treatment of non-human animals is to go vegan. It’s the *least* we can do. Like the old saying goes, treat others as you would like to be treated. 
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+The true reality behind what most people eat is made of nightmares. Unfortunately, most people believe the fabricated myth that their “food” came from loving farms where the animals lived in idyllic conditions. Why is this? We’ve been fed these stories to ignore the trillions of victims that are involved in our food choices. 
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+It takes one slaughterhouse or factory farm footage to change the pre-wired perception of what we call food. Cows crying for their children who were taken away from them, animals screaming at the top of their lungs in the slaughterhouse, and sows who are put in cages where they can’t even turn around. This is the reality of meat
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
+This is how the industry treats mothers. As machines. As a means to an end. When they are no longer of “value,” they are murdered. No one wants Wilber to be killed in Charlotte’s Web. We are rooting for his survival, yet most people don’t know the role they play in this vicious cycle.
 
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
+ Bearing witness (comforting animals before they are about to get slaughtered) can help make this connection between one’s food preferences and the beautiful sentient beings behind those choices. At Farmer Johns in Los Angeles, we give water to pigs in trucks who are about to be murdered. 
 
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
+Often, pigs will fight each other for water because they have been without water for days. Farmer John’s doesn’t want to waste any resources on them. Sometimes, they just want to be petted. 
 
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+Pigs have come up to me for that sole purpose, to be comforted. One pig even licked me as I was petting her.
+After all human beings have done to them, they are willing to see the good in us.
+It’s beautifully tragic.
+When you look into their eyes, being vegan makes sense. We have the power to change their lives by going vegan. 
