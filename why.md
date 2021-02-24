@@ -2,7 +2,13 @@
 layout: page
 title: Why Stop the Slaughter?
 ---
-Non-humans are exploited from the day they are born and until their last moments on earth. Exploited in every way possible. Treated like machines. This is a nightmare they can’t wake up from. Most don’t ever get to feel the sunlight against their skin or the comfort of their mothers. The only way to combat this cruel treatment of non-human animals is to go vegan. It’s the *least* we can do. Like the old saying goes, treat others as you would like to be treated. 
+# Why Stop the Slaughter?
+<span class="image fit">
+<img src="/images/look.jpg" alt="Pig looking through transport truck">
+</span>
+
+Non-humans are exploited from the day they are born and until their last moments on earth.
+Exploited in every way possible. Treated like machines. This is a nightmare they can’t wake up from. Most don’t ever get to feel the sunlight against their skin or the comfort of their mothers. The only way to combat this cruel treatment of non-human animals is to go vegan. It’s the *least* we can do. Like the old saying goes, treat others as you would like to be treated. 
 
 The true reality behind what most people eat is made of nightmares. Unfortunately, most people believe the fabricated myth that their “food” came from loving farms where the animals lived in idyllic conditions. Why is this? We’ve been fed these stories to ignore the trillions of victims that are involved in our food choices. 
 
