@@ -8,14 +8,12 @@ sitemap:
     changefreq: weekly
 ---
 
-[*Click here*](/sign/ "Sign the Petition") to sign the letter and urge U.C. to do the right thing.
+{% include sign-form.html %}
 
- To the University of California Board of Regents and President Michael V. Drake,
+To the University of California Board of Regents and President Michael V. Drake,
 
-								
 We the undersigned request you meet with student representatives to address the unjustifiable support of animal agriculture by the UC system in the face of the human, non-human animal, and environmental crises we face today. We urge the UC to pave the way for a just and sustainable food system by taking the following actions: 
 
-				
 1. Immediately begin a comprehensive five-year transition from animal food products to ethical, healthier, and cleaner plant-based provisions across dining halls and throughout hospitality events.
 2. Divert funds towards cruelty-free alternatives to non-food products, materials, and methods.
 3. Publicly condemn the slaughter and exploitation of animals in the food industry through campus publications and press releases across UC campuses.
@@ -24,7 +22,6 @@ The University of California has historically been a catalyst for global change,
 
 Adopting these demands is far from extreme, and follows in the footsteps of numerous universities, including Oxford, Cambridge, and the London School of Economics, who have adopted plant-based meal services and banned various animal products. The UC can and should go further -- we ask that you meet with our coalition of students by January 11, 2021 to begin the transition to a more just food system.
 
-				
 [*Click here*](/sign/ "Sign the Petition") to sign the letter and urge U.C. to do the right thing.
 
 *Signed*,
