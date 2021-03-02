@@ -22,7 +22,9 @@ The University of California has historically been a catalyst for global change,
 
 Adopting these demands is far from extreme, and follows in the footsteps of numerous universities, including Oxford, Cambridge, and the London School of Economics, who have adopted plant-based meal services and banned various animal products. The UC can and should go further -- we ask that you meet with our coalition of students by January 11, 2021 to begin the transition to a more just food system.
 
-[*Click here*](/sign/ "Sign the Petition") to sign the letter and urge U.C. to do the right thing.
+Sign the petition below and urge UC to do the right thing.
+
+{% include sign-form.html %}
 
 *Signed*,
 
