@@ -1,7 +1,6 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">What</a></li>
   <li class="{% if page.url contains '/why/' %} active {% endif %}"><a href="{{ "/why/" | absolute_url }}">Why</a></li>
-  <li class="{% if page.url contains '/sign/' %} active {% endif %}"><a href="{{ "/sign/" | absolute_url }}">Sign the Letter</a></li>
   <li class="{% if page.url contains '/join/' %} active {% endif %}"><a href="{{ "/join/" | absolute_url }}">Join</a></li>
 </ul>
 
