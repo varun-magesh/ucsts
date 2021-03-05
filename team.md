@@ -10,7 +10,7 @@ that might come in handy.
 ### Links
 * Team Drive Folder [(ucsts.org/team/drive)](/team/drive)
 * Meeting Schedule Spreadsheet [(ucsts.org/team/schedule)](/team/schedule)
-* New Members Document [(ucsts.org/team/schedule)](/team/newmembers)
+* New Members Document [(ucsts.org/team/newmembers)](/team/newmembers)
 
 ### Meetings
 * General Meeting: Thursdays at 6PM PT ([zoom.ucsts.org](https://zoom.ucsts.org))
