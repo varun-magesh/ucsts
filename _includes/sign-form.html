@@ -24,10 +24,7 @@
 			    for (var pair of formData.entries()) {
 					formlink = formlink.replace(pair[0], pair[1]);
 				}
-			    var wnd = window.open(formlink);
-				setTimeout(() => { 
-					wnd.location.href = "https://ucstoptheslaughter.org/join";
-				}, 1000);
+			    window.open(formlink);
 		}
 
 	function submitPetition() {
