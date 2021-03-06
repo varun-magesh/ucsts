@@ -22,13 +22,15 @@
 			    const formData = new FormData(document.querySelector('form'));
 			    console.log(formlink);
 			    for (var pair of formData.entries()) {
-						        formlink = formlink.replace(pair[0], pair[1]);
-						    }
-			    window.open(formlink);
+					formlink = formlink.replace(pair[0], pair[1]);
+				}
+			    var wnd = window.open(formlink);
+				setTimeout(() => { 
+					wnd.location.href = "https://ucstoptheslaughter.org/join";
+				}, 1000);
 		}
 
 	function submitPetition() {
-			window.open("https://google.com");
 			submitGoogleForm('https://docs.google.com/forms/d/e/1FAIpQLSddTpIhbq353hK4V_TsAECGu0P7RI-GL983pGrNXc8jUw-CXA/formResponse?usp=pp_url&entry.1057246925=sign-name&entry.508915385=sign-email&entry.1067060096=sign-position&submit=Submit');
 	}
 	document.getElementById("submitPetition").addEventListener("click", submitPetition, false)
