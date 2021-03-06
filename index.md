@@ -20,7 +20,7 @@ We the undersigned request you meet with student representatives to address the 
 
 The University of California has historically been a catalyst for global change, and now, more than ever, we need to demonstrate our leadership. Animal agriculture tortures trillions of animals each year, spurs the deforestation of the Amazon, and creates frightening potential for another global pandemic. These reasons — and many others — are detailed and sourced in this  attached document. In light of the vast social, environmental, and existential harm that animal agriculture causes, we students urge the University of California to set a global precedent by ending all support of this industry.
 
-Adopting these demands is far from extreme, and follows in the footsteps of numerous universities, including Oxford, Cambridge, and the London School of Economics, who have adopted plant-based meal services and banned various animal products. The UC can and should go further -- we ask that you meet with our coalition of students by January 11, 2021 to begin the transition to a more just food system.
+Adopting these demands is far from extreme, and follows in the footsteps of numerous universities, including Oxford, Cambridge, and the London School of Economics, who have adopted plant-based meal services and banned various animal products. The UC can and should go further -- we ask that you meet with our coalition of students to begin the transition to a more just food system.
 
 Sign the petition below and urge UC to do the right thing.
 
