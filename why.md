@@ -3,10 +3,7 @@ layout: page
 title: Why Stop the Slaughter?
 ---
 ## Why Stop the Slaughter?
-<span class="image left visible-xs">
-<img src="/images/look.jpg" alt="Pig looking through transport truck">
-</span>
-<span class="image left hidden-xs">
+<span class="image left">
 <img src="/images/look.jpg" alt="Pig looking through transport truck">
 </span>
 
