@@ -22,7 +22,7 @@ phone:              310-318-5555
 email:              general@ucstoptheslaughter.org
 
 # Other
-background_image:   images/bg.jpg
+background_image:   images/cows.webp
 # Tip: The color palette and other styles can be configured in /_sass/lib/_vars.scss
 slapform_thankyou_page: /thank-you
 
