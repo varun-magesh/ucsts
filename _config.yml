@@ -31,7 +31,7 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/news/:title/"
+    permalink: "/:categories/:title/"
     layout: post
     author:
 
