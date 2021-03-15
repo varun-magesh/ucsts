@@ -41,7 +41,11 @@
 					<!-- Footer -->
 						<footer>
               <ul class="actions">
-                <li><a href="{{ "/news/" | absolute_url }}" class="button">More News</a></li>
+				{% if page.categories[0] == "news" %}
+                <li><a href="{{ "/news/" | absolute_url }}" class="button"> More News </a></li>
+				{% else %}
+				<li><a href="{{ "/act/" | absolute_url }}" class="button"> More Actions </a></li>
+				{% endif %}
               </ul>
 						</footer>
 					</div>
