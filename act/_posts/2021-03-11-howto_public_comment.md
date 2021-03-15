@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "How to Make a Public Comment"
-date:   2021-03-09
+date:   2021-03-11
 excerpt: "Make your voice heard before the UC Regents by speaking at their public meetings."
 ---
 
