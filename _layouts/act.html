@@ -36,13 +36,13 @@
 						{% for post in site.categories["act"] %}
 							<article>
 								<header>
-									<span class="date">{{ post.date | date_to_string }}</span>
+									<span class="date" style="font-variant: small-caps">{{ post.date | date_to_string }} &middot;  <a href="{{ append: "/" | post.categories[0] | absolute_url }}"> {{ post.categories[0] | capitalize }} </a> </span>
 									<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h2>
 								</header>
 								<a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
 								<p>{{ post.excerpt }}</p>
 								<ul class="actions">
-									<li><a href="{{ post.url | absolute_url }}" class="button">Take Action</a></li>
+									<li><a href="{{ post.url | absolute_url }}" class="button">Full Story</a></li>
 								</ul>
 							</article>
 						{% endfor %}
