@@ -1,6 +1,7 @@
 ---
 layout: cat
 cat: act
+button: Take Action
 title: UC Stop the Slaughter | Act
 description: Read up on the latest actions you can take to help the campaign.
 sitemap:

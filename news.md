@@ -1,6 +1,7 @@
 ---
 layout: cat
 cat: news
+button: Full Story
 title: UC Stop the Slaughter News
 description: Read up on the latest news about the UC Stop the Slaughter campaign.
 sitemap:
