@@ -1,7 +1,7 @@
 # Site
 title:              UC Stop the Slaughter
 bio:                'Stop killing animals please.'
-description:        "Pretty please? Someone write this more nicely."
+description:        "We are a collective of University of California students working towards a just and sustainable food system. We inform students, mobilize activists, and petition UC to end the university’s support for violence towards our fellow beings."
 locale:             en_US
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
