@@ -5,7 +5,7 @@ date:   2021-04-06
 eventdate:   2021-04-08
 time: "7:00 PST"
 excerpt: "Join us, @vegbruins, and @bruinsopposingspeciesism as we watch the highly-anticipated Netflix documentary sequel to Cowspiracy."
-gcal: https://calendar.google.com/event?action=TEMPLATE&tmeid=X2M1ZDY2b2E3NXBwNzB0YnE2MWJsMHAzYWI5cGxpdGE2NmRrbWViamZkZ18yMDIxMDQwN1QwMDAwMDBaIHZhcnVuX2l5ZXJAdWNzYi5lZHU&tmsrc=varun_iyer%40ucsb.edu&scp=ALL
+gcal: https://calendar.google.com/event?action=TEMPLATE&tmeid=Xzhjc2o0ZHE1NmgyM2NiYTE2MHFqZ2I5azhrc2o2YmExNmgxamFiOWo3NHEzOGhoaDhvbzNhaGhqOGtsbGtqcWY5bDZrYWhhazk1NzRlamlsOWwxNGFraHE3NHFqMmQxaDZncDM4YzFtNm8gZ2VuZXJhbEB1Y3N0b3B0aGVzbGF1Z2h0ZXIub3Jn&tmsrc=general%40ucstoptheslaughter.org
 rsvp: "https://us7.list-manage.com/survey?u=4132599d59946eaab87ddc97b&id=0253d22866&attribution=false"
 ---
 Join us, @vegbruins, and @bruinsopposingspeciesism as we watch the highly-anticipated Netflix documentary sequel to Cowspiracy.
