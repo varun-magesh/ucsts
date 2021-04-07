@@ -2,6 +2,7 @@
 layout: post
 title:  "PETA Protest Training Event"
 date:   2021-03-25
+eventdate:   2021-03-25
 time: "3:00 PST"
 rsvp: "https://docs.google.com/forms/d/e/1FAIpQLSek03O_bcFVRnrVMKn3Gh2w4wATT00hVbGK9-lC6UJoLGjzhw/viewform?usp=sf_link"
 ---

@@ -35,8 +35,23 @@
 					<!-- Post -->
 					<dl>
 						{% for post in site.categories["events"] %}
-						<dt> <div style="display:flex; justify-content: space-between;"><div> <div style="font-family:Work Sans"> {{ post.title | upcase }} </div> <i> {{ post.eventdate | date_to_string }}, {{ post.time }}</i> </div>
-								<div align="right"> <a class="button special" href="{{ post.rsvp }}">RSVP</a> <a class="button special" href="{{ post.rsvp }}">RSVP</a> </div></div>
+						<dt>
+								<div class="flex-container" style="display: flex; justify-content: space-between; flex-wrap: wrap; flex-direction: row;">
+									<div class="flex-container" style="display: flex; flex-direction: column;">
+										<div style="font-family:Work Sans">
+											{{ post.title | upcase }}
+										</div>
+										<div>
+											<i> {{ post.eventdate | date_to_string }}, {{ post.time }}</i>
+										</div>
+									</div>
+									<div align="right" style="display: flex;">
+										{% if post.gcal %}
+										<a class="button" href="{{ post.gcal }}">Add to G Cal</a> &nbsp;
+										{% endif %}
+										<a class="button special" href="{{ post.rsvp }}">RSVP</a>
+									</div>
+								</div>
 						</dt>
 						<dd>
 							<p>
