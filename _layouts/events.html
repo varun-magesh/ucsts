@@ -1,0 +1,61 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+
+
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+				<header id="header">
+					<a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+				</header>
+
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+						
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+
+					<!-- Post -->
+					<dl>
+						{% for post in site.categories["events"] %}
+						<dt> <div style="display:flex; justify-content: space-between;"><div> <div style="font-family:Work Sans"> {{ post.title | upcase }} </div> <i> {{ post.date | date_to_string }} </i> </div>
+								<div align="right"> <a class="button special" href="{{ post.rsvp }}">RSVP</a> </div></div>
+						</dt>
+						<dd>
+							<p>
+								{{ post.content }}
+							</p>
+						</dd>
+						{% endfor %}
+					</dl>
+
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+			<!-- Scripts -->
+			{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>
