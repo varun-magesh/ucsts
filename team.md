@@ -21,3 +21,4 @@ that might come in handy.
 * Media: Tuesdays at 5PM PT ([zoom.ucsts.org/media](https://zoom.ucsts.org/media))
 * Research: Saturdays at 5PM PT ([zoom.ucsts.org/research](https://zoom.ucsts.org/research))
 
+<iframe src="https://calendar.google.com/calendar/embed?src=general%40ucstoptheslaughter.org&ctz=America%2FLos_Angeles" style="border: 0" class="responsiveFrame" width="100%" height="650" frameborder="0" scrolling="no"></iframe>
