@@ -9,6 +9,7 @@ that might come in handy.
 
 ### Links
 * Team Drive Folder [(ucsts.org/team/drive)](/team/drive)
+* ClickUp [(ucsts.org/team/clickup)](/team/clickup)
 * Meeting Schedule Spreadsheet [(ucsts.org/team/schedule)](/team/schedule)
 * New Members Document [(ucsts.org/team/newmembers)](/team/newmembers)
 
