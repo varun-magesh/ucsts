@@ -51,12 +51,13 @@ sass:
   style:            compressed
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-youtube
 
 paginate: 6
 paginate_path: "/news/page:num/"

@@ -1,0 +1,63 @@
+<!DOCTYPE HTML>
+<!--
+	Massively by HTML5 UP
+	html5up.net | @ajlkn
+  Jekyll integration by somiibo.com
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+    {% include head.html %}
+	</head>
+	<body class="is-loading">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Header -->
+        <h2 id="header">
+          <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
+        </h2>
+
+				<!-- Nav -->
+					<nav id="nav">
+
+            {% include nav.html %}
+						
+					</nav>
+
+				<!-- Main -->
+				<div id="main">
+          <section class="post">
+    				<header class="major">
+						<!-- <span class="date">{{page.date | date_to_string}}</span> -->
+      				<h2>{{page.title}}</h2>
+      				<p>{{page.excerpt}}</p>
+      			</header>
+				<!--	<div class="image main"><img src="{{page.image}}" alt=""></div> -->
+      			<p>{{content}}</p>
+      		</section>
+
+					<!-- Footer -->
+						<footer>
+              <ul class="actions">
+				{% if page.categories[0] == "news" %}
+                <li><a href="{{ "/news/" | absolute_url }}" class="button"> More News </a></li>
+				{% else %}
+				<li><a href="{{ "/act/" | absolute_url }}" class="button"> More Actions </a></li>
+				{% endif %}
+              </ul>
+						</footer>
+					</div>
+
+				<!-- Footer -->
+        {% include foot.html %}
+
+			</div>
+
+      <!-- Scripts -->
+  		{% include scripts-main.html %}
+			{% include tracking.html %}
+
+	</body>
+</html>
