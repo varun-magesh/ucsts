@@ -1,7 +1,9 @@
 <ul class="links">
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">What</a></li>
   <li class="{% if page.url contains '/why/' %} active {% endif %}"><a href="{{ "/why/" | absolute_url }}">Why</a></li>
-  <li class="{% if page.url contains '/more/' %} active {% endif %}"><a href="{{ "/more/" | absolute_url }}">More</a></li>
+  <li class="{% if page.url contains '/events/' %} active {% endif %}"><a href="{{ "/events/" | absolute_url }}">Events</a></li>
+  <li class="{% if page.url contains '/harris/' %} active {% endif %}"><a href="{{ "/harris/" | absolute_url }}">Harris</a></li>
+  <li class="{% if page.url contains '/news/' %} active {% endif %}"><a href="{{ "/news/" | absolute_url }}">News</a></li>
   <li class="{% if page.url contains '/join/' %} active {% endif %}"><a href="{{ "/join/" | absolute_url }}">Join</a></li>
   <li class="{% if page.url contains '/sign/' %} active {% endif %}"><a href="{{ "/sign/" | absolute_url }}">Sign</a></li>
 </ul>
