@@ -39,7 +39,7 @@
 								<div class="flex-container" style="display: flex; justify-content: space-between; flex-wrap: wrap; flex-direction: row;">
 									<div class="flex-container" style="display: flex; flex-direction: column;">
 										<div style="font-family:Work Sans">
-											{{ post.title | upcase }}
+											<a href="{{ post.url }}"> {{ post.title | upcase }} </a>
 										</div>
 										<div>
 											<i> {{ post.eventdate | date_to_string }}, {{ post.time }}</i>
