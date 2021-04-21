@@ -49,7 +49,11 @@
 										{% if post.gcal %}
 										<a class="button" href="{{ post.gcal }}">Add to G Cal</a> &nbsp;
 										{% endif %}
-										<a class="button special" href="{{ post.rsvp }}" disabled=true>RSVP</a>
+										{% if post.rsvp %}
+											<a class="button special" href="{{ post.rsvp }}" disabled=true>RSVP</a>
+										{% elsif post.zoom%}
+											<a class="button special" href="{{ post.zoom }}" disabled=true>Zoom Link</a>
+										{% endif %}
 									</div>
 								</div>
 						</dt>
@@ -70,7 +74,6 @@
 
 			<!-- Scripts -->
 			{% include scripts-main.html %}
-			{% include tracking.html %}
 
 	</body>
 </html>
