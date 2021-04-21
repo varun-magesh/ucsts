@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "Seaspiracy Watch Party"
 date:   2021-04-06
 eventdate:   2021-04-08

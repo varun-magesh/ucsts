@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: event
 title:  "PETA Protest Training Event"
 date:   2021-03-25
 eventdate:   2021-03-25
